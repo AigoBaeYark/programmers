@@ -7,6 +7,7 @@
 str1과 str2는 영어 소문자로만 이루어져 있습니다.
 
 입출력 예
-str1 str2 result
-"abc" "aabcc" 1
-"tbt" "tbbttb" 0
+|str1|str2|result|
+|------|---|---|
+|"abc"| "aabcc"| 1|
+|"tbt"| "tbbttb"| 0|
